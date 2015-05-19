@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="windowActionBar">false</item>
+        <!-- Customize your theme here. -->
+        <item name="android:buttonStyle">@style/BtnStyle</item>
+
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="android:windowTitleStyle">@style/TitleStyle</item>
+
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <style name="BtnStyle" parent="@android:style/Widget.Button">
+        <item name="android:textColor">@color/grey_for_text</item>
+        <item name="android:textSize">@dimen/textSize</item>
+        <item name="android:layout_marginTop">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+    </style>
+
+    <style name="TitleStyle">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
+
+

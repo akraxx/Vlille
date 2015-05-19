@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vlille</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh_in_progress">Rafraichissement en cours...</string>
+    <string name="bad_location">Localisation en cours...</string>
+
+    <string name="time_ago_prefix">il y a</string>
+    <string name="time_ago_suffix"></string>
+    <string name="time_ago_seconds">moins d\'une minute</string>
+    <string name="time_ago_minute">environ une minute</string>
+    <string name="time_ago_minutes">environ %d minutes</string>
+    <string name="time_ago_hour">environ une heure</string>
+    <string name="time_ago_hours">environ %d heures</string>
+    <string name="time_ago_day">environ un jour</string>
+    <string name="time_ago_days">environ %d jours</string>
+    <string name="time_ago_month">environ un mois</string>
+    <string name="time_ago_months">environ %d mois</string>
+    <string name="time_ago_year">un an</string>
+    <string name="time_ago_years">%d ans</string>
+    <string name="main_title_details">Details</string>
+
+    <string name="drawer_stations_label">FAVORIS</string>
+
+    <string name="station_details_vlille_label">VLille</string>
+    <string name="station_details_attach_label">Attaches</string>
+    <string name="station_detail_cb_label">Paiement par CB autorisé.</string>
+    <string name="station_details_offline_label">En cours de maintenance</string>
+    <string name="station_details_go_label">M\'y rendre</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="settings_precision_label">Précision de l\'emplacement</string>
+    <string name="settings_number_items_list_label">Nombre d\'éléments dans la liste</string>
+    <string name="settings_number_items_list_hint">( Supérieur à 0 )</string>
+    <string name="settings_precision_hint">( En mètres, supérieur à 10 )</string>
+    <string name="loading_stations">Les stations ont été chargées.</string>
+    <string name="settings_save_label">Sauvegarder</string>
+    <string name="settings_indicator_label">Indicateurs :</string>
+    <string name="settings_indicators_inf_equals"><![CDATA[<=]]></string>
+    <string name="settings_indicators_sup"><![CDATA[>]]></string>
+    <string name="settings_error_number_elements">Bad number of elements list</string>
+    <string name="settings_error_precision">Bad precision</string>
+    <string name="settings_error_limit">Bad limit</string>
+    <string name="settings_change_done">Changement effectué.</string>
+    <string name="settings_change_error">Une erreur s\'est produite, vérifiez vos valeurs.</string>
+</resources>

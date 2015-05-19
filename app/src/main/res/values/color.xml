@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alpha_selector">#96646464</color>
+    <color name="grey">#9D9D9D</color>
+    <color name="grey_for_text">#646464</color>
+    <color name="grey_for_hint">#C7C7C7</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--material-->
+    <color name="primary">#e61b31</color>
+    <color name="primary_dark">#901528</color>
+    <color name="accent">#e97284</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#FFFFFF</color>
+
+    <!--indicators-->
+    <color name="indicator_low">#cc0000</color>
+    <color name="indicator_middle">#ff8800</color>
+    <color name="indicator_high">#669900</color>
+</resources>
